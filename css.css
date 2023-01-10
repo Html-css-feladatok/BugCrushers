@@ -1,0 +1,12 @@
+#rolunk-felirat {
+    font-size: 45px;
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 13px
+}
+
+.bg-primary {
+    background-color: rgba(117, 92, 124, 0.7);
+}
+
